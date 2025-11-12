@@ -1,0 +1,122 @@
+# Kim Jeong-tae (Origogi)
+
+## Mobile App Developer
+
+**Contact Information**
+- Phone: +82 01068991542
+- Email: rlawjdxo1212@naver.com
+- Address: 275 Dongpangyo-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea
+
+## Summary
+
+Mobile developer with 13 years of extensive development experience across Flutter, Android, and iOS platforms, currently expanding expertise into cloud technologies by learning GCP. Passionate about solving complex problems through diverse approaches without being limited to specific technologies, always striving to find optimal solutions.
+
+## Technical Skills
+
+Flutter, Android, Kotlin, Dart, Github Actions, iOS, Android Compose, SwiftUI, CI/CD
+
+## Work Experience
+
+### Kakao Corporation
+**AI Client | Senior Engineer | Full-time**
+- Period: June 2024 ~ Present
+- Role: Development of Kakao's next-generation AI service Kanana App
+
+### Kakao Brain
+**Client Development Team | Senior Engineer | Full-time**
+- Period: February 2022 ~ June 2024 (2 years 5 months)
+- Role: Flutter App development utilizing AI technology
+
+### 11st (11st Street)
+**App Development Team | Manager | Full-time**
+- Period: February 2020 ~ February 2022 (2 years 1 month)
+- Role: 11st Android App development
+
+### LG Electronics
+**MC Business Unit | Senior Researcher | Full-time**
+- Period: January 2013 ~ February 2020 (7 years 2 months)
+- Responsibilities:
+  - Worked in RCS message protocol framework development team, implementing interactions between Android native code and Java code using JNI, and developing messaging protocols based on C++
+  - Developed video call and CCTV service prototypes based on LG Electronics home robot, WebRTC-based Android App development
+
+## Projects
+
+### Kanana App Development and Internal CBT Launch
+**Kakao | July 2024 ~ January 2025**
+
+AI Agent App that understands conversation context through chat-based interactions and provides personalized support to users
+
+**Tech Stack**: iOS, Swift, SwiftUI
+
+**Key Contributions**:
+- Participated in overall App Architecture design
+- Developed chat room functionality
+  - Text message transmission and reception
+  - Various file (image, video, file) transmission and reception
+  - Developed complex and diverse chat bubble designs
+
+### B^ Discover App Development
+**Kakao Brain | September 2022 ~ December 2023**
+
+Generative AI-based app that receives text-based prompts from users to generate images and videos
+
+**Tech Stack**: Flutter, Dart, Github Actions, Fastlane, Firebase, JavaScript, TypeScript, Mocha
+
+**Key Contributions**:
+- Developed diverse and complex UI
+- Participated in architecture design
+- Wrote Flutter Test Code
+- Implemented Integrated Test using Patrol library and CI integration
+- Developed Backend logic using Cloud Functions
+- Migrated existing JS-based code to 100% TypeScript
+- Wrote Cloud Functions Test code
+- CI/CD
+  - Built CICD environment based on Github actions and Fastlane
+  - Automated Unit Test and Lint check execution on PR creation
+  - Optimized iOS build performance
+  - Applied Build Flavor (Dev, Stage, Prod)
+  - Automated deployment to Firebase App Distribution, Google Play, App Store
+
+### Remy App Development
+**Kakao Brain | February 2022 ~ August 2022**
+
+AI-based app that divides long English sentences into chunks to help with English learning
+
+**Tech Stack**: Flutter, Dart, Riverpod, Firebase
+
+**Key Contributions**:
+- Improved Flutter App structure
+- Developed diverse and complex UI
+- Developed logic to analyze English sentences and distinguish between nouns, adjectives, adverbs, and verbs with different displays
+
+### 11st Android App Amazon Tab Development
+**11st | January 2020 ~ August 2020**
+
+Developed 11st Amazon direct shipping service in collaboration with Amazon
+
+**Tech Stack**: Android, Kotlin, Java
+
+**Key Contributions**:
+- Developed various product UI Blocks that constitute the Amazon tab on the home screen
+
+## Portfolio
+
+**Link**: https://github.com/Origogi
+
+## Certifications
+
+### Engineer Information Processing
+- Issuing Organization: Human Resources Development Service of Korea
+- Date: December 2012
+
+### Google Cloud Engineer
+- Level: Associate
+- Issuing Organization: Google Cloud
+- Date: January 2023
+
+## Education
+
+### Konkuk University
+- Degree: Bachelor's
+- Major: Computer Science and Engineering
+- Period: March 2006 ~ February 2013
