@@ -7,6 +7,15 @@ import re
 
 @tool
 def web_search_tool(query: str):
+    """
+    Web Search Tool.
+
+    Args:
+        query (str): The search query.
+
+    Returns:
+        A list of search results with the website content in cleaned markdown format.
+    """
     app = FirecrawlApp(api_key=os.getenv("FIRECRAWL_API_KEY"))
 
     response = app.search(
@@ -33,5 +42,3 @@ def web_search_tool(query: str):
 
     print(cleaned_chunks)
     return cleaned_chunks
-
-print(web_search_tool("Reacte Native in Korea"))

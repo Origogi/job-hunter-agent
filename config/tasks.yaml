@@ -1,6 +1,6 @@
 job_extraction_task:
   description: >
-    Find and extract {level} level {position} jobs in {location}.
+    Find and extract {level} level {position} jobs in {location}. and posted in the last 7 days'
 
     Steps include:
     1. Use Web Search Tool to search for {level} level {position} jobs in {location}.
