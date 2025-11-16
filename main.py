@@ -114,5 +114,5 @@ result = JobHunterCrew().crew().kickoff(
     }
 )
 
-for task_output in result.tasks_outputs:
+for task_output in result.tasks_output:
     print(task_output.pydantic)
